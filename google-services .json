@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "895263935984",
+    "firebase_url": "https://pushnotification-9698c.firebaseio.com",
+    "project_id": "pushnotification-9698c",
+    "storage_bucket": "pushnotification-9698c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:895263935984:android:d4abcd685a5dda34fae135",
+        "android_client_info": {
+          "package_name": "com.ionic.pushnotificati"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "895263935984-28o7umn763662o475d9p02lnc6lbe011.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvukiIj6Vd8jog6fwssUFpRjdLmKCIqqo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "895263935984-28o7umn763662o475d9p02lnc6lbe011.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "895263935984-8aqrv641arh54anquh8qvq21tai2it32.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ionic.pushnotificati"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
